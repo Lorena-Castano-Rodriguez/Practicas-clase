@@ -1,9 +1,9 @@
 public class Calculadora {
 /**
- * Calculadora - Cacula la suma de dos números enteros.
+ * Calculadora - Calcula la suma de dos números enteros.
  * @param a primer número entero
  * @param b segundo número entero
- * @return resultado de sumar amobos números
+ * @return resultado de sumar ambos números
  */
     public int sumar(int a, int b) {
         return a + b;
