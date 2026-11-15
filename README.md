@@ -1,0 +1,8 @@
+# Calculadora VT8
+Aplicación Java sencilla que permite realizar operaciones matemáticas.
+## Diseño
+Main --> Calculadora
+- Main inicia la aplicación.
+- Calculadora contiene las operaciones matemáticas.
+## Criterio de validación
+Si se llama a sumar 
